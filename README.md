@@ -17,6 +17,6 @@ You will also see any lint errors in the console.
 ## WHY?
 
 I create this app to challenge myself and improve my skills with react has a web developer.
-This a memory game, with your score and even a hall of fame if you beat the score.
+This is a memory game, with your score and even a hall of fame if you beat the score.
 
 let's play!
